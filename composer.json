@@ -1,5 +1,5 @@
 {
-    "name": "crononauta-twilio/sdk",
+    "name": "twilio/sdk",
     "type": "library",
     "description": "A PHP wrapper for Twilio's API",
     "keywords": ["twilio", "sms", "api"],
